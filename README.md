@@ -20,7 +20,7 @@ To run this game, you'll need: 🛠️
 
 1. Clone this repository to your local machine. 🖥️
    ```bash
-   git clone https://github.com/yourusername/ping-pong-game.git
+   git clone https://github.com/HimkarSingh/ping-pong-game.git
    cd ping-pong-game
    ```
 2. Run the game by executing the `main.py` file:
